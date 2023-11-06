@@ -1,11 +1,14 @@
 .nav {
   margin-top: 3rem;
   margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
 }
 
 .nav ul {
   list-style: none;
   display: flex;
+  flex-direction: row;
   background-color: var(--color-dark--2);
   border-radius: 7px;
 }
