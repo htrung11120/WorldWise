@@ -49,28 +49,16 @@
       "id": 98443198
     },
     {
-      "cityName": "Bechar",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-11-12T03:25:48.336Z",
+      "cityName": "Charbonnieres-les-Varennes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-13T04:38:39.766Z",
       "notes": "",
       "position": {
-        "lat": "31.541089879585837",
-        "lng": "-1.6479492187500002"
+        "lat": "45.89000815866184",
+        "lng": "2.9882812500000004"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "Bordj Badji Mokhtar",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-11-12T03:25:52.476Z",
-      "notes": "",
-      "position": {
-        "lat": "23.805449612314625",
-        "lng": "-2.0434570312500004"
-      },
-      "id": 98443200
     }
   ]
 }
